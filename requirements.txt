@@ -1,0 +1,11 @@
+flask
+flask_cors
+requests
+json
+webbrowser
+instagramy
+instascrape
+pandas
+string
+numpy
+datetime
